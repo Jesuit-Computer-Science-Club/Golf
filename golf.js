@@ -12,7 +12,7 @@ let height; // The height of the canvas
 // Runs on page load
 function setup() {
   frameRate(60);
-  width = 1000;
+  width = 600;
   height = 400;
   hole_radius = 25;
   radius = 20;
